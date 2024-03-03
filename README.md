@@ -2,6 +2,11 @@
 
 This is a project that uses computer vision and deep learning to detect faces in images and videos. Face detection is a useful technology that has many applications in various domains, such as security, social media, education, healthcare, and more.
 
+#working
+![1706998912000](https://github.com/paragnema1/Face_Detection_Project/assets/123290831/cc36f3da-0889-45f8-b648-1dfd1bd74c0e)
+
+![1706998912000](https://github.com/paragnema1/Face_Detection_Project/assets/123290831/4ea612ad-93df-427c-b78e-69da1cc6e620)
+
 ## Requirements
 
 - Python 3.8 or higher
